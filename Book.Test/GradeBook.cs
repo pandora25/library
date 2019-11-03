@@ -4,7 +4,7 @@ using Xunit;
 
 namespace Book.Test
 {
-    public class UnitTest1
+    public class GradeBook
     {
         [Fact]
         public void Test1()

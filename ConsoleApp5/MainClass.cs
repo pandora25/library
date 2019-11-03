@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Book.Core
 {
-    class Services
+    class MainClass
     {
         static void Main(string[] _)
         {

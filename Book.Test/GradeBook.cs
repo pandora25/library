@@ -10,8 +10,8 @@ namespace Book.Test
         public void Test1()
         {
             //Arrange
-            var BookCopy = new BookClass("");
-            BookCopy.AddGrade(50.5);
+            var BookCopy = new BookClass("math");
+            BookCopy.AddGrade(50);
             BookCopy.AddGrade(75);
             BookCopy.AddGrade(100);
 
